@@ -48,4 +48,7 @@ My GitHub URL is [https://github.com/jmalm79](https://github.com/jmalm79)
 
 Email: jmalm79@gmail.com
 
+Walkthrough Video#1 URL is [https://drive.google.com/file/d/1UTs5_YMvuHJ7wUtbGwNHfZbowLZq-JZG/view](https://drive.google.com/file/d/1UTs5_YMvuHJ7wUtbGwNHfZbowLZq-JZG/view)
+Walkthrough Video#2 URL is [https://drive.google.com/file/d/1XIR9f3dFkqRjwOZcsJruWVBCG4c79-IQ/view](https://drive.google.com/file/d/1XIR9f3dFkqRjwOZcsJruWVBCG4c79-IQ/view)
+
 ![ScreenShot of this.](images/projectScreenShot.jpg)
